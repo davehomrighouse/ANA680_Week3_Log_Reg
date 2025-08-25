@@ -1,1 +1,1 @@
-web: gunicorn wine_quality_app:app
+web: gunicorn wine_quality_lr_app:app
